@@ -1,0 +1,32 @@
+{
+  "create_offer": [
+    "maestro",
+    "estrategia",
+    "copy"
+  ],
+  "create_campaign": [
+    "maestro",
+    "estrategia",
+    "copy",
+    "criativos",
+    "imagens",
+    "videos",
+    "funil",
+    "trafego"
+  ],
+  "optimize_campaign": [
+    "maestro",
+    "analytics",
+    "copy",
+    "criativos",
+    "trafego"
+  ],
+  "daily_content": [
+    "maestro",
+    "estrategia",
+    "copy",
+    "criativos",
+    "imagens",
+    "videos"
+  ]
+}
