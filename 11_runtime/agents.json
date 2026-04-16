@@ -22,12 +22,12 @@
   "imagens": {
     "name": "Imagens",
     "path": "05_imagens/imagens.md",
-    "role": "image_prompting"
+    "role": "image"
   },
   "videos": {
     "name": "Videos",
     "path": "06_videos/videos.md",
-    "role": "video_script"
+    "role": "video"
   },
   "analytics": {
     "name": "Analytics",
