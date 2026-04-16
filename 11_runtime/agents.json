@@ -1,0 +1,47 @@
+{
+  "maestro": {
+    "name": "Maestro",
+    "path": "01_maestro/maestro.md",
+    "role": "orchestrator"
+  },
+  "estrategia": {
+    "name": "Estrategia",
+    "path": "02_estrategia/estrategia.md",
+    "role": "strategy"
+  },
+  "copy": {
+    "name": "Copy",
+    "path": "03_copy/copy.md",
+    "role": "copywriting"
+  },
+  "criativos": {
+    "name": "Criativos",
+    "path": "04_criativos/criativos.md",
+    "role": "creative"
+  },
+  "imagens": {
+    "name": "Imagens",
+    "path": "05_imagens/imagens.md",
+    "role": "image_prompting"
+  },
+  "videos": {
+    "name": "Videos",
+    "path": "06_videos/videos.md",
+    "role": "video_script"
+  },
+  "analytics": {
+    "name": "Analytics",
+    "path": "07_analytics/analytics.md",
+    "role": "analysis"
+  },
+  "funil": {
+    "name": "Funil",
+    "path": "08_funil/funil.md",
+    "role": "funnel"
+  },
+  "trafego": {
+    "name": "Trafego",
+    "path": "09_trafego/trafego.md",
+    "role": "traffic"
+  }
+}
